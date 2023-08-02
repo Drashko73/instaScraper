@@ -15,6 +15,7 @@ The Instagram Scraper is a Python project designed to extract data from public I
 - Extract user details including username, full name, biography, and profile picture.
 - Retrieve public posts along with their captions, likes, and comments.
 - Retrieve post with the most likes
+- Get links to posts where user is tagged
 
 ## Requirements
 
