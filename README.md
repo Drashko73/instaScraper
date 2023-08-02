@@ -6,6 +6,9 @@
 
 The Instagram Scraper is a Python project designed to extract data from public Instagram profiles. It utilizes web scraping techniques to gather information such as user details, posts, followers, and following, providing valuable insights for various analytical purposes.
 
+![image](https://github.com/Drashko73/instaScraper/assets/103207855/1e4ecbca-0358-4d55-84a6-e66199554268)
+
+
 ## Features
 
 - Scrape public Instagram profiles to gather user information.
