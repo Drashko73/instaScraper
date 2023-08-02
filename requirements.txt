@@ -1,4 +1,3 @@
-Modules required to run the code:
---- requests
---- instaloader
---- webbrowser
+requests
+instaloader
+webbrowser
